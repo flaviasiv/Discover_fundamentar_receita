@@ -4,11 +4,11 @@
     box-sizing: border-box;
    }
 
-img {
+figure, img {
     margin: auto;
     border-radius: 1%;
     width: 1030px;
-    height: 1030px;
+    height: 400px;
     object-fit: cover;
     background: no-repeat center;
 }
